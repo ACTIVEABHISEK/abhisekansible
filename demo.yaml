@@ -1,0 +1,7 @@
+---
+- hostname: localhost
+  task:
+   - name: abhisek
+     user:
+        name: abhisek maity
+        status: ture            
